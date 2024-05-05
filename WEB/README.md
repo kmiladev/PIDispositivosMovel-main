@@ -14,8 +14,6 @@ Algumas das ferramentas utilizados para facilitar o desenvolvimento do nosso sis
 
 ## Histórico de modificações
 - 01/05/2024: Inicio do projeto web desktop. Camila
-- 16/04/2024: Tela de login parcialmente finalizada. Marcos
-- 20/04/2024: Finalizada a primeira parte da interface, pagina de login concluida: Marcos
-- 21/04/2024: Inicio da tela de cadastro: Marcos
-- 28/04/2024: Criado as rotas das paginas principais, com botões de navegação, criadas as paginas: home, listagem de pet, listagem de ong, profile, descrição do pet, descrição da ong e criação do pet. Marcos
+- 05/05/2024: primeiro commit com index pronto, faltando apenas alguns ajustes mas com foco no desktop porém responsivo.
+- 
 
